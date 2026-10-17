@@ -7,30 +7,21 @@
 </p>
 
 <p align="center">
-  Software engineering, architecture, and developer tooling.
+  Independent software engineering · Developer tooling · Open source
 </p>
 
-WebSign is an independent software engineering brand focused on building maintainable web applications, well-structured systems, and practical tools for developers.
+WebSign is an independent, one-person software engineering initiative and the home of self-developed software projects.
 
-The goal is straightforward: solve real problems with technology that remains understandable, adaptable, and useful over time.
+The focus is on building useful developer tools, exploring practical approaches to software architecture, and creating software that remains understandable, adaptable, and maintainable over time.
 
-## What WebSign Focuses On
+**Build what matters.** Not more software for its own sake, but solutions to problems worth solving.
 
-### Software Architecture
+## What Happens Here
 
-Designing systems with clear responsibilities, explicit boundaries, and room to evolve. Architecture should reduce complexity, not introduce it.
-
-### Web Applications
-
-Developing reliable backend systems and modern user interfaces, with a strong focus on maintainability, performance, and clear interfaces between components.
-
-### Developer Experience
-
-Improving local development, project setup, automation, and everyday workflows. Good tooling should remove friction without hiding how a system works.
-
-### Open Source
-
-Creating and sharing software built around practical needs. Clear documentation, transparent limitations, and predictable behavior matter as much as functionality.
+- **Developer tooling** — Building tools that make local development, project setup, and everyday workflows simpler and more predictable.
+- **Software architecture** — Exploring modular systems, clear responsibilities, and explicit boundaries through real implementations.
+- **End-to-end engineering** — Developing software across backend, frontend, and infrastructure, with attention to how the pieces work together.
+- **Open source** — Sharing selected projects, documenting design decisions, and improving software through continued development.
 
 ## Engineering Principles
 
@@ -43,7 +34,7 @@ Creating and sharing software built around practical needs. Clear documentation,
 
 ## Technology
 
-WebSign works primarily with established technologies across the modern web stack:
+The technologies used depend on the needs of each project. The work spans different layers of the web stack:
 
 | Area | Technologies |
 | --- | --- |
@@ -52,19 +43,19 @@ WebSign works primarily with established technologies across the modern web stac
 | Data | MariaDB, MySQL |
 | Tooling & Infrastructure | Docker, Git, GitHub Actions, Linux |
 
-Technologies are tools, not the objective. The choice depends on the requirements of the project.
+**Technologies are tools, not the objective.** Architecture and implementation should follow the problem, not the other way around.
 
 ## Projects & Open Source
 
-The **pinned repositories** on this profile highlight selected work, including open-source projects and developer tools.
+The **pinned repositories** on this profile highlight selected projects and developer tools built under WebSign.
 
-Each project repository is the source of truth for its features, installation, compatibility, limitations, and release status.
+Each repository is the source of truth for its purpose, architecture, setup, compatibility, limitations, and release status.
 
 ## Build what matters
 
 Not every problem needs a new framework, another abstraction, or a more complicated workflow.
 
-WebSign is about identifying what actually matters, making deliberate technical decisions, and building software that can be maintained and extended without unnecessary friction.
+WebSign is about deliberate engineering decisions and software with a clear purpose — built independently, documented openly where appropriate, and designed to evolve.
 
 ---
 
